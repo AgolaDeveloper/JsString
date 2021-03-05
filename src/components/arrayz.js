@@ -1,10 +1,8 @@
 import React from 'react'
-import './stringz.css'
-
-function Stringz(){
+function Arra(){
     return(
         <div className="stri">
-            <h2>BASIC STRINGS METHODS</h2>
+            <h2>BASIC ARRAYS METHODS</h2>
             <dl>
                 <dt>.length</dt>
                     <dd>gives the length of a string</dd>
@@ -26,8 +24,6 @@ function Stringz(){
             </dl>
         </div>
     )
-
 }
 
-
-export default Stringz;
+export default Arra;
