@@ -1,8 +1,12 @@
 .chess{
   max-width: 700px;
   margin: auto;
+  /* border-radius: 30px; */
 
+}
 
+.im{
+  border-radius: 800px;
 }
 
 

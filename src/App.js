@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="chess">
-      <img src={chess} width= "700px" alt="chess" />
+      <img className= "im" src={chess} width= "700px" alt="chess" />
 
       </div>
 
