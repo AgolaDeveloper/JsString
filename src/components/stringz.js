@@ -1,5 +1,6 @@
 import React from 'react'
 import './stringz.css'
+// import chess from '../components/chess.jpg'
 
 function Stringz(){
     return(
@@ -24,6 +25,7 @@ function Stringz(){
                     <dd>the method is tasked with joining different strings</dd>
                 
             </dl>
+
         </div>
     )
 
